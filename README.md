@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://uk.linkedin.com/in/christopher-caldwell-5b6807172)](https://uk.linkedin.com/in/christopher-caldwell-5b6807172)
 
 <!--
 **ImmutableGlitch/ImmutableGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
