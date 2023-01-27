@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy partner! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://uk.linkedin.com/in/christopher-caldwell-5b6807172)](https://uk.linkedin.com/in/christopher-caldwell-5b6807172)
 
 <!--
